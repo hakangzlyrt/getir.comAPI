@@ -1,0 +1,3435 @@
+{
+    "data": {
+        "category": {
+            "id": "5928113e616cab00041ec6de",
+            "type": 1,
+            "name": "Meyve & Sebze",
+            "picURL": "https://cdn-image.getir.com/market/category/5e65d6ee-e0cd-40f6-8829-bba5c179091f.png?format=webp&height=500&width=500",
+            "productCount": 134,
+            "subCategories": [
+                {
+                    "id": "59281340616cab00041ec874",
+                    "name": "Meyve",
+                    "productCount": 54,
+                    "products": [
+                        {
+                            "id": "5f2162a356b9b125791d57ba",
+                            "name": "Üzüm",
+                            "shortName": "Üzüm",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0c001b57-c98c-49fc-a780-d351e091bac4.jpg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/f27b9b36-bdc7-4716-bf30-ab4762429f32.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/0c001b57-c98c-49fc-a780-d351e091bac4.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec",
+                                "64b69f8f72bb5d160044c31c",
+                                "664ad7a39e833e4237eeb547"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "64b942de62f47cd3ef93fbf7",
+                                "665077a1bbc942e70b58bfb1"
+                            ],
+                            "displayType": 0,
+                            "price": 51.5,
+                            "priceText": "₺51,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 103,
+                            "unitPriceText": "(₺103,00/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "cekirdeksiz-uzum-R59HTy0HZ9",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e6752bc9769bdd390e9bd43",
+                            "name": "Yaban Mersini",
+                            "shortName": "Yaban Mersini",
+                            "shortDescription": "125 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/yabanmersini_5e6752bc9769bdd390e9bd43.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/deb6b5ac-5bf6-434e-a745-62969a09da1b.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/yabanmersini_5e6752bc9769bdd390e9bd43.png",
+                                "https://market-product-images-cdn.getirapi.com/product/9561b7c1-da10-47bb-a16e-96ab376da96d.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/64df047f-3c73-4cd4-89fb-0a7772550122.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "664ad7a39e833e4237eeb547"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "665077a1bbc942e70b58bfb1"
+                            ],
+                            "displayType": 0,
+                            "price": 104.99,
+                            "priceText": "₺104,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 839.92,
+                            "unitPriceText": "(₺839,92/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d77",
+                                "name": "SBR"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "yaban-mersini-utWYmDWvby",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f0ff03f97ccc50527acf9b3",
+                            "name": "Kırkağaç Kavun",
+                            "shortName": "Kırkağaç Kavunu",
+                            "shortDescription": "2 - 2,5 kg",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/772afc11-fd1b-4933-aab2-73ace010cfe9.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/772afc11-fd1b-4933-aab2-73ace010cfe9.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec",
+                                "64b69f8f72bb5d160044c31c",
+                                "66698e7a2bfa508c870c76ab",
+                                "66a38288d49a4a15f00fdecb"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "64b942de62f47cd3ef93fbf7",
+                                "66698fc7dce8dde6c67e3b04",
+                                "66a39341a0f57a0dcde4a40d"
+                            ],
+                            "displayType": 0,
+                            "price": 74.99,
+                            "priceText": "₺74,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kirkagac-kavun-SqQlmeRM1y",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5bbb7a3646559c001e5a77b5",
+                            "name": "Mandalina",
+                            "shortName": "Mandalina",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/779fa2bf-224f-41c5-a841-579c1e910638.jpg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/22b4d246-14c4-49e3-93fe-560952a5f837.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/779fa2bf-224f-41c5-a841-579c1e910638.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 59.99,
+                            "priceText": "₺59,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "mandalina-CPIzdc9A86",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da3048393cfb89cb5ec6be6",
+                            "name": "Portakal",
+                            "shortName": "Portakal",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/portakal2kg_635bc4824b4e04ddfa6b553d.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5da3048393cfb89cb5ec6be6_wide_pic_tr_1650349016514.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/portakal2kg_635bc4824b4e04ddfa6b553d.png",
+                                "https://market-product-images-cdn.getirapi.com/product/1d1540f4-1f53-4b35-a899-b0190ddfad03.png",
+                                "https://market-product-images-cdn.getirapi.com/product/025836d8-ea1b-47e4-b88a-d0462d32dd82.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8"
+                            ],
+                            "displayType": 0,
+                            "price": 42.99,
+                            "priceText": "₺42,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "portakal-UI2NNI1tmk",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e1c2c347a39c0758a3a758a",
+                            "name": "Sıkmalık Portakal",
+                            "shortName": "Sıkmalık Portakal",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5e1c2c347a39c0758a3a758a_wide_pic_tr_1641808066213.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png",
+                                "https://market-product-images-cdn.getirapi.com/product/cc5c5009-4084-4871-b1bb-030ee9700058.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 42.99,
+                            "priceText": "₺42,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "sikmalik-portakal-qdIbOqmZ5D",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da306b1d35ceb79d14320ae",
+                            "name": "Finike Portakalı Sıkmalık",
+                            "shortName": "Finike Portakalı Sıkmalık",
+                            "shortDescription": "2 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/30cd9a92-eaf8-4d90-a46e-75a3a1547888.jpg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png",
+                                "https://market-product-images-cdn.getirapi.com/product/1d42e31f-d5f6-4901-af3d-3cc9c05e32bc.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 79.99,
+                            "priceText": "₺79,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 39.995,
+                            "unitPriceText": "(₺40,00/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "sikmalik-portakal-eXKJnv8uSN",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da31e8ad35ceb3c03432e3c",
+                            "name": "Greyfurt",
+                            "shortName": "Greyfurt",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/greyfurt_5da31e8ad35ceb3c03432e3c.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5da31e8ad35ceb3c03432e3c_wide_pic_tr_1643797676075.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/greyfurt_5da31e8ad35ceb3c03432e3c.png",
+                                "https://market-product-images-cdn.getirapi.com/product/2feb8fb0-a525-403e-b4a7-c6d76f00d695.jpeg",
+                                "http://cdn.getir.com/product/5da31e8ad35ceb3c03432e3c_tr_1572613931168.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 32.99,
+                            "priceText": "₺32,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 32.99,
+                            "unitPriceText": "(₺32,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "greyfurt-KUoslKCzaq",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f3bbfda27b154538cb46104",
+                            "name": "Yerli Muz",
+                            "shortName": "Yerli Muz",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/yerlimuz_5f3bbfda27b154538cb46104.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5f3bbfda27b154538cb46104_wide_pic_tr_1643625172112.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/yerlimuz_5f3bbfda27b154538cb46104.png",
+                                "https://market-product-images-cdn.getirapi.com/product/9877a421-e4c3-45aa-9131-ccfb69ca9ef7.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6315ae8909a1e98363960f1a",
+                                "61b9ed091a62a71f128e1fec",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34",
+                                "65ae59b286f0b3bc4be456c4",
+                                "65ae67c4d881b1f79c087791"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "6245a65610fa22b0bc463f13",
+                                "624c10e55e47639c01fe3f5f",
+                                "6315aec3879291f41a6cb16e",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "63adc688bed519882059c312",
+                                "64107b56fa1bd07f9a751a30",
+                                "65bb648068760f50d6725248",
+                                "65bb649ccd25a68a81c52f6a"
+                            ],
+                            "displayType": 0,
+                            "price": 62.99,
+                            "priceText": "₺62,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 83.9867,
+                            "unitPriceText": "(₺83,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "yerli-muz-owhvrxxhek",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8d0b03c5fd0001497976",
+                            "name": "İthal Muz",
+                            "shortName": "İthal Muz",
+                            "shortDescription": "650 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/ithalmuz_5cac8d0b03c5fd0001497976.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_wide_pic_tr_1643625672380.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/ithalmuz_5cac8d0b03c5fd0001497976.png",
+                                "https://market-product-images-cdn.getirapi.com/product/91137e07-534b-48e7-b368-5d1fd4e7f1f8.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "65ae59b286f0b3bc4be456c4",
+                                "65ae67c4d881b1f79c087791",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "65bb648068760f50d6725248",
+                                "65bb649ccd25a68a81c52f6a",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 72.99,
+                            "priceText": "₺72,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 112.2923,
+                            "unitPriceText": "(₺112,29/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "ithal-muz-Gqr7FxCtdk",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ceae0399d3ea8000196e14a",
+                            "name": "Ananas",
+                            "shortName": "Ananas",
+                            "shortDescription": "1 Adet",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_ananas_5ceae0399d3ea8000196e14a.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ceae0399d3ea8000196e14a_wide_pic_tr_1654066380993.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_ananas_5ceae0399d3ea8000196e14a.png",
+                                "https://market-product-images-cdn.getirapi.com/product/cf124c25-3206-4418-b9fa-dc342ac680fe.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec",
+                                "66698e7a2bfa508c870c76ab"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "66698fc7dce8dde6c67e3b04"
+                            ],
+                            "displayType": 0,
+                            "price": 104.99,
+                            "priceText": "₺104,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5ce5084549397b0001a89c89",
+                                "name": "Verita"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "ananas-dUMpYFTXz5",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da1b5d8c1e2e52c436a6cc7",
+                            "name": "Kivi",
+                            "shortName": "Kivi",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kivi_5da1b5d8c1e2e52c436a6cc7.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5da1b5d8c1e2e52c436a6cc7_wide_pic_tr_1646732519196.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kivi_5da1b5d8c1e2e52c436a6cc7.png",
+                                "https://market-product-images-cdn.getirapi.com/product/8201bb77-fced-4ffc-a235-630b4976cbb7.jpeg",
+                                "http://cdn.getir.com/product/5da1b5d8c1e2e52c436a6cc7_tr_1571850235954.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8"
+                            ],
+                            "displayType": 0,
+                            "price": 59.99,
+                            "priceText": "₺59,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 119.98,
+                            "unitPriceText": "(₺119,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kivi-3srBwiT0oa",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced4830d349d10001e7055f",
+                            "name": "Granny Smith Elma",
+                            "shortName": "Granny Smith Elma",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/GrannySmithElma_5ced4830d349d10001e7055f.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced4830d349d10001e7055f_wide_pic_tr_1647325596920.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/GrannySmithElma_5ced4830d349d10001e7055f.png",
+                                "https://market-product-images-cdn.getirapi.com/product/cc08810c-4d54-4742-9501-697636474b6f.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec",
+                                "65ae59b286f0b3bc4be456c4",
+                                "65ae67c4d881b1f79c087791"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "65bb648068760f50d6725248",
+                                "65bb649ccd25a68a81c52f6a"
+                            ],
+                            "displayType": 0,
+                            "price": 72.99,
+                            "priceText": "₺72,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 97.32,
+                            "unitPriceText": "(₺97,32/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "granny-smith-elma-PYtXAOYTyS",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced48324a8a2a000137dad2",
+                            "name": "Starking Elma",
+                            "shortName": "Starking Elma",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/StarkingElma_5ced48324a8a2a000137dad2.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced48324a8a2a000137dad2_wide_pic_tr_1646029979231.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/StarkingElma_5ced48324a8a2a000137dad2.png",
+                                "https://market-product-images-cdn.getirapi.com/product/278c0185-cacd-47cb-a92b-900abdf2cf6e.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec",
+                                "65ae59b286f0b3bc4be456c4",
+                                "65ae67c4d881b1f79c087791"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8",
+                                "65bb648068760f50d6725248",
+                                "65bb649ccd25a68a81c52f6a"
+                            ],
+                            "displayType": 0,
+                            "price": 49.99,
+                            "priceText": "₺49,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 66.6533,
+                            "unitPriceText": "(₺66,65/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "starking-elma-P4357LEkLQ",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f75e61bb45c4e49dc581f30",
+                            "name": "Golden Elma",
+                            "shortName": "Golden Elma",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/d4e94446-ddca-4f36-be5e-fc74a2601242.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/d4e94446-ddca-4f36-be5e-fc74a2601242.png",
+                                "https://market-product-images-cdn.getirapi.com/product/02f2d10d-ad7c-4740-90a7-de3c27f5b840.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 49.99,
+                            "priceText": "₺49,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 66.6533,
+                            "unitPriceText": "(₺66,65/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "golden-elma-DhHQJPVLfW",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8dce2cacac00016e3327",
+                            "name": "Yeşil Elma",
+                            "shortName": "Yeşil Elma",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5cac8dce2cacac00016e3327_1554919653256.jpeg?v=1554919655942",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5cac8dce2cacac00016e3327_1554919653256.jpeg?v=1554919655942"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "yesil-elma-CyTJwgkJz3",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f460b49cde7d32ab1ef4b85",
+                            "name": "Gala Elma",
+                            "shortName": "Gala Elma",
+                            "shortDescription": "750 g",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5f460b49cde7d32ab1ef4b85_tr_1631085438698.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5f460b49cde7d32ab1ef4b85_tr_1631085438698.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 35.99,
+                            "priceText": "₺35,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 47.9867,
+                            "unitPriceText": "(₺47,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "gala-elma-UgZguP7rL5",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da05cfabba9e5cf2fd8423c",
+                            "name": "Deveci Armudu",
+                            "shortName": "Deveci Armudu",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/SantaMariaArmut_5da03c2fd5d08d0c386e41af.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5da05cfabba9e5cf2fd8423c_wide_pic_tr_1642426129125.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/SantaMariaArmut_5da03c2fd5d08d0c386e41af.png",
+                                "https://market-product-images-cdn.getirapi.com/product/d7f1fda0-b08a-4a2b-a5af-4c67afbf4a91.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 84.99,
+                            "priceText": "₺84,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "deveci-armudu-7AkYsnSr1y",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5da03c2fd5d08d0c386e41af",
+                            "name": "Santa Maria Armut",
+                            "shortName": "Santa Maria Armut",
+                            "shortDescription": "900 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/6231904e-e345-4c70-a2dd-dace18f9bb59.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/6231904e-e345-4c70-a2dd-dace18f9bb59.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/262c09f6-bde8-408f-baa5-0e4b24a949be.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "61b9ed091a62a71f128e1fec"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "6396e0ad6d6bc16d1c195eb8"
+                            ],
+                            "displayType": 0,
+                            "price": 79.99,
+                            "priceText": "₺79,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 88.8778,
+                            "unitPriceText": "(₺88,88/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "santa-maria-armut-q0tllWTCmf",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5c0a678ea7f4932a68d0a87c",
+                            "name": "Ayva",
+                            "shortName": "Ayva",
+                            "shortDescription": "800 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/ayva_5c0a678ea7f4932a68d0a87c.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/ayva_5c0a678ea7f4932a68d0a87c.png",
+                                "https://market-product-images-cdn.getirapi.com/product/32bb4ad9-e7d9-4037-9c0f-4fcf1a7cc800.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 89.99,
+                            "priceText": "₺89,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 112.4875,
+                            "unitPriceText": "(₺112,49/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "ayva-wrDW7pOHcB",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8e27ec184600019a39d9",
+                            "name": "Yemeye Hazır Avokado",
+                            "shortName": "Yemeye Hazır Avokado",
+                            "shortDescription": "1 Adet",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/olgunavokado_5cac8e27ec184600019a39d9.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/olgunavokado_5cac8e27ec184600019a39d9.png",
+                                "https://market-product-images-cdn.getirapi.com/product/677f4537-06ce-43a5-8d74-403f148d3bf2.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "6220aade4b7e8f42a3100532",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "6220ab46c070e11345a82299",
+                                "624c10e55e47639c01fe3f5f",
+                                "63514e0a58560f0e28a99c93",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 54.99,
+                            "priceText": "₺54,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "olgun-avokado-2Pfu0xUHoq",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "6050c7a16e5017d2cdb1c214",
+                            "name": "Baby Avokado",
+                            "shortName": "Baby Avokado",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/8ac7fb11-6b20-4202-9790-7ce1a517353b.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/8ac7fb11-6b20-4202-9790-7ce1a517353b.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f"
+                            ],
+                            "displayType": 0,
+                            "price": 89.99,
+                            "priceText": "₺89,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "avokado-3-lu-dtvksdDHHV",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ce6581ffd9b330001c4a925",
+                            "name": "Verita Dilimlenmiş Hindistan Cevizi",
+                            "shortName": "Dilimlenmiş Hindistan Cevizi",
+                            "shortDescription": "40 g",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5ce6581ffd9b330001c4a925_tr_1561363752890.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5ce6581ffd9b330001c4a925_tr_1561363752890.jpeg",
+                                "https://cdn.getir.com/product/hindistancevizi_5da6edc8219ee6682e26d5be.png"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "59281340616cab00041ec874",
+                                "624c10e55e47639c01fe3f5f",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 35.99,
+                            "priceText": "₺35,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5ce5084549397b0001a89c89",
+                                "name": "Verita"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "verita-dilimlenmis-hindistan-cevizi-RBQqr0yJfn",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ce6581cfd9b330001c4a889",
+                            "name": "Lime",
+                            "shortName": "Lime",
+                            "shortDescription": "3 Adet",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_lime3_lu_5ce6581cfd9b330001c4a889.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_lime3_lu_5ce6581cfd9b330001c4a889.png",
+                                "https://market-product-images-cdn.getirapi.com/product/83b4d2a7-3c83-42e7-9afd-80b33f47c9fa.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "59281340616cab00041ec874"
+                            ],
+                            "displayType": 0,
+                            "price": 64.99,
+                            "priceText": "₺64,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "lime-OWYyGWA4Pf",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced482f4a8a2a000137da80",
+                            "name": "Limon",
+                            "shortName": "Limon",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced482f4a8a2a000137da80_wide_pic_tr_1645080588097.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                                "https://market-product-images-cdn.getirapi.com/product/5dac8585-fab2-4eaf-83f2-48920b6f750b.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514cfa123f7a4f08c0230d",
+                                "59281340616cab00041ec874"
+                            ],
+                            "displayType": 0,
+                            "price": 42.99,
+                            "priceText": "₺42,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "limon-jRppnJblRq",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "5928134e37e22d0004ead488",
+                    "name": "Sebze",
+                    "productCount": 80,
+                    "products": [
+                        {
+                            "id": "5ced482a4a8a2a000137da47",
+                            "name": "Patlıcan",
+                            "shortName": "Patlıcan",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/patlican_5ced482a4a8a2a000137da47.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/9b289ca2-80e5-4644-b2cd-4a389bbfcda5.jpg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/patlican_5ced482a4a8a2a000137da47.png",
+                                "https://market-product-images-cdn.getirapi.com/product/f1183eae-b1dd-4e07-ba67-e7663811338e.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63514def58560f6020a99c92",
+                                "63a47c76c6c71a21c64a24b7"
+                            ],
+                            "displayType": 1,
+                            "price": 69.99,
+                            "priceText": "₺69,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "patlican-3oSgIf9sZl",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8bffec184600019a371d",
+                            "name": "Kokteyl Domates",
+                            "shortName": "Kokteyl Domates",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/a0c9b5fd-4ca7-46cb-addb-7146aa8768b0.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0267def9-9984-4856-91c0-8674cbca65d6.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/a0c9b5fd-4ca7-46cb-addb-7146aa8768b0.png",
+                                "https://market-product-images-cdn.getirapi.com/product/95783b09-abe4-482e-af6e-099329cc45f3.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6315ad5a41a0212f32930178",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "6315bb9df924552526ab7bb8",
+                                "63514c8d79b13881d19e27c5",
+                                "63514cd779b13882e59e27c7",
+                                "63514def58560f6020a99c92",
+                                "63514e9b1e00b40a128f5927",
+                                "63a5f709e4c0574949614e73",
+                                "64107b56fa1bd07f9a751a30"
+                            ],
+                            "displayType": 0,
+                            "price": 69.99,
+                            "priceText": "₺69,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 139.98,
+                            "unitPriceText": "(₺139,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kokteyl-domates-tWDNbSS1zA",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced4830d349d10001e70553",
+                            "name": "Cherry Domates",
+                            "shortName": "Cherry Domates",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/Cherrydomates_5ced4830d349d10001e70553.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced4830d349d10001e70553_wide_pic_tr_1647325534000.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/Cherrydomates_5ced4830d349d10001e70553.png",
+                                "https://market-product-images-cdn.getirapi.com/product/cc340f7d-ca10-437a-b9a2-63d9e0c043a0.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 25.99,
+                            "priceText": "₺25,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 103.96,
+                            "unitPriceText": "(₺103,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "cherry-domates-4aQqPoWyNj",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5bbdfac1065e060011b9ca28",
+                            "name": "Domates",
+                            "shortName": "Domates",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/domates1kg_5bbdfac1065e060011b9ca28.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/domates1kg_5bbdfac1065e060011b9ca28.png",
+                                "https://market-product-images-cdn.getirapi.com/product/d661148d-8391-4e57-b375-9fccb50d3797.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34",
+                                "6655affb2e81056238c10427"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63514c8d79b13881d19e27c5",
+                                "63514cd779b13882e59e27c7",
+                                "63514def58560f6020a99c92",
+                                "63514e9b1e00b40a128f5927",
+                                "63a5f709e4c0574949614e73",
+                                "64107b56fa1bd07f9a751a30",
+                                "6655b0c49caa88bb92f49d1c"
+                            ],
+                            "displayType": 0,
+                            "price": 54.99,
+                            "priceText": "₺54,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "domates-ZZgCgMl2id",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "60d1cf99213cb5f0429e7427",
+                            "name": "Yerli Tohum Vitrin Domates",
+                            "shortName": "Yerli Tohum Vitrin Domates",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/f368ed79-90ce-4aaf-8df0-b03efac93e8e.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/f368ed79-90ce-4aaf-8df0-b03efac93e8e.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "641076aa6b9f11be71279a34",
+                                "66698e7a2bfa508c870c76ab"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "64107b56fa1bd07f9a751a30",
+                                "66698fc7dce8dde6c67e3b04"
+                            ],
+                            "displayType": 0,
+                            "price": 54.5,
+                            "priceText": "₺54,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 218,
+                            "unitPriceText": "(₺218,00/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kahvaltilik-renkli-domates-sypbmiulyn",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8d93ec184600019a38e5",
+                            "name": "Kahvaltılık Domates",
+                            "shortName": "Kahvaltılık Domates",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kahvaltilikdomates_5cac8d93ec184600019a38e5.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5cac8d93ec184600019a38e5_wide_pic_tr_1646030741437.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kahvaltilikdomates_5cac8d93ec184600019a38e5.png",
+                                "https://market-product-images-cdn.getirapi.com/product/376e0355-55e2-4231-bc33-8ada75066b13.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "66698e7a2bfa508c870c76ab",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "66698fc7dce8dde6c67e3b04",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 52.99,
+                            "priceText": "₺52,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 211.96,
+                            "unitPriceText": "(₺211,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kahvaltilik-domates-l2UWVTZkn5",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5c8f911e9d3d5a0001a9f79e",
+                            "name": "Salkım Domates",
+                            "shortName": "Salkım Domates",
+                            "shortDescription": "600 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/salkimdomates_5bbb749e3310ad3271d7e05b.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/salkimdomates_5bbb749e3310ad3271d7e05b.png",
+                                "https://market-product-images-cdn.getirapi.com/product/f1f982c0-b7a8-433f-b09e-ea08f1c3c163.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488"
+                            ],
+                            "displayType": 0,
+                            "price": 32.99,
+                            "priceText": "₺32,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5c8f8ca79d3d5a0001a9f097",
+                                "name": "Agrocan"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "salkim-domates-SOr6tkZ6z2",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5bbb749e3310ad3271d7e05b",
+                            "name": "Salkım Domates",
+                            "shortName": "Salkım Domates",
+                            "shortDescription": "900 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/salkimdomates_5bbb749e3310ad3271d7e05b.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/salkimdomates_5bbb749e3310ad3271d7e05b.png",
+                                "https://market-product-images-cdn.getirapi.com/product/d36456bc-f8b0-4f82-8bb1-283f1cc0832c.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "635113f0fa86568599ce4ba8",
+                                "63514e9b1e00b40a128f5927",
+                                "63514c8d79b13881d19e27c5",
+                                "63514cd779b13882e59e27c7",
+                                "63a5f709e4c0574949614e73"
+                            ],
+                            "displayType": 0,
+                            "price": 74.99,
+                            "priceText": "₺74,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 83.3222,
+                            "unitPriceText": "(₺83,32/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "salkim-domates-qRmIVrf8JC",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8c9503c5fd00014978d0",
+                            "name": "Çengelköy Salatalık",
+                            "shortName": "Çengelköy Salatalık",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/2d484aec-ffd5-413c-9df8-cb8ad688fca2.jpg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_cengelkoysalatalik_5cac8c9503c5fd00014978d0.png",
+                                "https://market-product-images-cdn.getirapi.com/product/2d484aec-ffd5-413c-9df8-cb8ad688fca2.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488"
+                            ],
+                            "displayType": 0,
+                            "price": 54.99,
+                            "priceText": "₺54,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 109.98,
+                            "unitPriceText": "(₺109,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "cengelkoy-salatalik-Q3m0T3VQYz",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced482d4a8a2a000137da6f",
+                            "name": "Çengelköy Salatalık",
+                            "shortName": "Çengelköy Salatalık",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_cengelkoysalatalik_5ced482d4a8a2a000137da6f.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced482d4a8a2a000137da6f_wide_pic_tr_1651156145510.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_cengelkoysalatalik_5ced482d4a8a2a000137da6f.png",
+                                "https://market-product-images-cdn.getirapi.com/product/291f19c8-10e4-4caa-bfbc-f4f4047d100f.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63514c8d79b13881d19e27c5",
+                                "63514e9b1e00b40a128f5927",
+                                "63a47c76c6c71a21c64a24b7",
+                                "64107b56fa1bd07f9a751a30"
+                            ],
+                            "displayType": 0,
+                            "price": 84.99,
+                            "priceText": "₺84,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 84.99,
+                            "unitPriceText": "(₺84,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "cengelkoy-salatalik-axINK6lzqQ",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced48304a8a2a000137da96",
+                            "name": "Salatalık",
+                            "shortName": "Salatalık",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/salatalik_5ced48304a8a2a000137da96.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced48304a8a2a000137da96_wide_pic_tr_1653302271369.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/salatalik_5ced48304a8a2a000137da96.png",
+                                "https://market-product-images-cdn.getirapi.com/product/05165622-6854-42c6-a3c4-51c5be89dc15.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63514c8d79b13881d19e27c5",
+                                "63514e9b1e00b40a128f5927",
+                                "63a47c76c6c71a21c64a24b7",
+                                "64107b56fa1bd07f9a751a30"
+                            ],
+                            "displayType": 0,
+                            "price": 69.99,
+                            "priceText": "₺69,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "salatalik-RFxCBIBbLJ",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5fa90cf62a72e46707272614",
+                            "name": "Erüst Atıştırmalık Mini Hıyar",
+                            "shortName": "Mini Hıyar",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5fa90cf62a72e46707272614_tr_1625548196905.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5fa90cf62a72e46707272614_tr_1625548196905.jpeg",
+                                "http://cdn.getir.com/product/5fa90cf62a72e46707272614_tr_1605533214428.png"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 59.99,
+                            "priceText": "₺59,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 239.96,
+                            "unitPriceText": "(₺239,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "erust-atistirmalik-mini-hiyar-jQPZcyM95n",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8dfbec184600019a3998",
+                            "name": "Sivri Biber",
+                            "shortName": "Sivri Biber",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kilsivribiber_61e02c302193f60ba9c86368.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kilsivribiber_61e02c302193f60ba9c86368.png",
+                                "https://market-product-images-cdn.getirapi.com/product/18b323ab-9099-460a-9cbd-e3d1f1bbedc7.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "sivri-biber-wtrG77UZtI",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced4831d349d10001e70584",
+                            "name": "Dolmalık Biber",
+                            "shortName": "Dolmalık Biber",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/f9b29f27-c24d-450b-9ec0-07663607967c.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/f9b29f27-c24d-450b-9ec0-07663607967c.png",
+                                "https://market-product-images-cdn.getirapi.com/product/2dd1d0f3-f46d-4173-8ffd-a843be9761e8.png"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 71.5,
+                            "priceText": "₺71,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 71.5,
+                            "unitPriceText": "(₺71,50/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "dolmalik-biber-ilVaMsvMZj",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced482ad349d10001e70515",
+                            "name": "Kapya Biber",
+                            "shortName": "Kapya Biber",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kapyabiber_5ced482ad349d10001e70515.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced482ad349d10001e70515_wide_pic_tr_1643020583943.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kapyabiber_5ced482ad349d10001e70515.png",
+                                "https://market-product-images-cdn.getirapi.com/product/28d63fd5-4b0f-408c-87c9-b3d75c8f95cd.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34",
+                                "66a391b5b880b581e68e7296"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63514cd779b13882e59e27c7",
+                                "63514da0b1f62126fcc552d9",
+                                "63514def58560f6020a99c92",
+                                "63514e0a58560f0e28a99c93",
+                                "64107b56fa1bd07f9a751a30",
+                                "66a3969a4ff6ca4517cd8dd4"
+                            ],
+                            "displayType": 0,
+                            "price": 59.99,
+                            "priceText": "₺59,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 119.98,
+                            "unitPriceText": "(₺119,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kapya-biber-PkY92uC96K",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "612773c1335b51646cdf4d8a",
+                            "name": "Cin Biber",
+                            "shortName": "Cin Biber",
+                            "shortDescription": "100 g",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/612773c1335b51646cdf4d8a_tr_1630579188947.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/612773c1335b51646cdf4d8a_tr_1630579188947.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 84.99,
+                            "priceText": "₺84,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 849.9,
+                            "unitPriceText": "(₺849,90/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "cin-biber-oudhvwaqlw",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced48314a8a2a000137dab3",
+                            "name": "Kabak",
+                            "shortName": "Kabak",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kabak_5ced48314a8a2a000137dab3.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/4b210426-71d6-4e99-a971-45e2b09dd852.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kabak_5ced48314a8a2a000137dab3.png",
+                                "https://market-product-images-cdn.getirapi.com/product/43e4af46-4973-4acc-8404-3ebfe86a728d.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "63a47c76c6c71a21c64a24b7",
+                                "64107b56fa1bd07f9a751a30"
+                            ],
+                            "displayType": 0,
+                            "price": 52.99,
+                            "priceText": "₺52,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kabak-J4II7tOVkg",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8c4103c5fd0001497889",
+                            "name": "Limon",
+                            "shortName": "Limon",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                                "https://market-product-images-cdn.getirapi.com/product/ab4ba90a-dab1-49d8-ac1b-d73e398a8eb6.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "limon-0cYvzSrdiY",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced482f4a8a2a000137da80",
+                            "name": "Limon",
+                            "shortName": "Limon",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ced482f4a8a2a000137da80_wide_pic_tr_1645080588097.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_limon_5ced482f4a8a2a000137da80.png",
+                                "https://market-product-images-cdn.getirapi.com/product/5dac8585-fab2-4eaf-83f2-48920b6f750b.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514cfa123f7a4f08c0230d",
+                                "59281340616cab00041ec874"
+                            ],
+                            "displayType": 0,
+                            "price": 42.99,
+                            "priceText": "₺42,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "limon-jRppnJblRq",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ce6581cfd9b330001c4a889",
+                            "name": "Lime",
+                            "shortName": "Lime",
+                            "shortDescription": "3 Adet",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_lime3_lu_5ce6581cfd9b330001c4a889.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_lime3_lu_5ce6581cfd9b330001c4a889.png",
+                                "https://market-product-images-cdn.getirapi.com/product/83b4d2a7-3c83-42e7-9afd-80b33f47c9fa.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "59281340616cab00041ec874"
+                            ],
+                            "displayType": 0,
+                            "price": 64.99,
+                            "priceText": "₺64,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "lime-OWYyGWA4Pf",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5cac8d4aec184600019a3874",
+                            "name": "Havuç",
+                            "shortName": "Havuç",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/havuc_5cac8d4aec184600019a3874.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/havuc_5cac8d4aec184600019a3874.png",
+                                "https://market-product-images-cdn.getirapi.com/product/1209dd41-362f-4a23-bd4f-52ac419257d6.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514cd779b13882e59e27c7",
+                                "63514d7774624d5cc499b8a0",
+                                "63a47c76c6c71a21c64a24b7",
+                                "63d77d5ee42e9e2e4cc26579"
+                            ],
+                            "displayType": 0,
+                            "price": 26.99,
+                            "priceText": "₺26,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 53.98,
+                            "unitPriceText": "(₺53,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "havuc-wyT5E4Mg5y",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5fa560c3932eb4cf197ec195",
+                            "name": "Siyah Havuç",
+                            "shortName": "Siyah Havuç",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/siyahhavuc_5fa560c3932eb4cf197ec195.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/siyahhavuc_5fa560c3932eb4cf197ec195.png",
+                                "https://market-product-images-cdn.getirapi.com/product/99203bae-2bc4-468e-b16a-d45ae1e8d853.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 32.99,
+                            "priceText": "₺32,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 65.98,
+                            "unitPriceText": "(₺65,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "siyah-havuc-HUOziCrv5f",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5d42cb1fd3dab8000122cdb7",
+                            "name": "Mini Patates",
+                            "shortName": "Mini Patates",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/tazeminipatates_5c9235bad0222600018b999a.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/tazeminipatates_5c9235bad0222600018b999a.png",
+                                "https://market-product-images-cdn.getirapi.com/product/7b4a673f-6908-4fe8-b458-247fcf9f0424.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488"
+                            ],
+                            "displayType": 0,
+                            "price": 57.99,
+                            "priceText": "₺57,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "mini-patates-CA5sTvsy55",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5c9235bad0222600018b999a",
+                            "name": "Kızartmalık Patates",
+                            "shortName": "Kızartmalık Patates",
+                            "shortDescription": "2 kg",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/11b13633-1fa1-4777-af8a-7c17d3e9b253.jpeg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5c9235bad0222600018b999a_wide_pic_tr_1644229696844.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/11b13633-1fa1-4777-af8a-7c17d3e9b253.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/0d29f95d-8b72-4ada-916c-cc90448db3a1.jpeg",
+                                "http://cdn.getir.com/product/5c9235bad0222600018b999a_tr_1572939433311.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6",
+                                "641076aa6b9f11be71279a34"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "635113f0fa86568599ce4ba8",
+                                "64107b56fa1bd07f9a751a30"
+                            ],
+                            "displayType": 0,
+                            "price": 54.99,
+                            "priceText": "₺54,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 27.495,
+                            "unitPriceText": "(₺27,50/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "patates-HrPzfEJXzk",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e720ad975574662e6ecbbb5",
+                            "name": "Kuru Soğan",
+                            "shortName": "Kuru Soğan",
+                            "shortDescription": "2 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kurusogan_2kg_5e720ad975574662e6ecbbb5.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kurusogan_2kg_5e720ad975574662e6ecbbb5.png",
+                                "https://market-product-images-cdn.getirapi.com/product/045e5a0e-6ae9-482d-b2ad-d43da672a88a.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "6655affb2e81056238c10427"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6655b0c49caa88bb92f49d1c"
+                            ],
+                            "displayType": 0,
+                            "price": 69.99,
+                            "priceText": "₺69,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 34.995,
+                            "unitPriceText": "(₺35,00/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kuru-sogan-xmLCKKHrdl",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ceae0319d3ea8000196e0b8",
+                            "name": "Arpacık Soğan",
+                            "shortName": "Arpacık Soğan",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/arpaciksogan_5ceae0319d3ea8000196e0b8.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/arpaciksogan_5ceae0319d3ea8000196e0b8.png",
+                                "https://market-product-images-cdn.getirapi.com/product/7979491c-bdf3-4f1e-baea-1c87541a35d4.jpg",
+                                "http://cdn.getir.com/product/5ceae0319d3ea8000196e0b8_tr_1572940729047.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "6220aade4b7e8f42a3100532",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6220ab46c070e11345a82299",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 24.99,
+                            "priceText": "₺24,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 49.98,
+                            "unitPriceText": "(₺49,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "arpacik-sogan-w13SAk6ns3",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5dd28058f48a070a6d8423a0",
+                            "name": "Karnabahar",
+                            "shortName": "Karnabahar",
+                            "shortDescription": "1 - 1,5 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/karnabahar1_1_5kg_5dd28058f48a070a6d8423a0.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5dd28058f48a070a6d8423a0_wide_pic_tr_1641808623437.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/karnabahar1_1_5kg_5dd28058f48a070a6d8423a0.png",
+                                "https://market-product-images-cdn.getirapi.com/product/b2c84777-72f5-4761-8eb9-4ee80ba6645f.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 109.99,
+                            "priceText": "₺109,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5bc7088233f75b00124de4c5",
+                                "name": "Hünerler"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "karnabahar-7fnv85DBMa",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f8ebf4923d8754099929218",
+                            "name": "Brokoli",
+                            "shortName": "Brokoli",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/brokoli_5f8ebf4923d8754099929218.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/brokoli_5f8ebf4923d8754099929218.png",
+                                "https://market-product-images-cdn.getirapi.com/product/092826c8-6cd5-4e53-ae93-a687e1d64e82.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514d7774624d5cc499b8a0"
+                            ],
+                            "displayType": 0,
+                            "price": 84.99,
+                            "priceText": "₺84,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 169.98,
+                            "unitPriceText": "(₺169,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "brokoli-GhyvMLXn3m",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5dd2ad0e4915bbe1b17e26ab",
+                            "name": "Pırasa",
+                            "shortName": "Pırasa",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/pirasa_5dd2ad0e4915bbe1b17e26ab.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5dd2ad0e4915bbe1b17e26ab_wide_pic_tr_1648723173514.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/pirasa_5dd2ad0e4915bbe1b17e26ab.png",
+                                "https://market-product-images-cdn.getirapi.com/product/fdca5680-a989-44b9-a1b7-eb4ea867524d.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 109.99,
+                            "priceText": "₺109,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 109.99,
+                            "unitPriceText": "(₺109,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5bc7088233f75b00124de4c5",
+                                "name": "Hünerler"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "pirasa-4hyc9KDiSN",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5dd2ae7b4915bbea577e2960",
+                            "name": "Kereviz",
+                            "shortName": "Kereviz",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kereviz1kg_5dd2ae7b4915bbea577e2960.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kereviz1kg_5dd2ae7b4915bbea577e2960.png",
+                                "https://market-product-images-cdn.getirapi.com/product/b35a7681-69f4-41c4-a300-9298c014033a.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "6220aade4b7e8f42a3100532",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6220ab46c070e11345a82299",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 99.99,
+                            "priceText": "₺99,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5bc7088233f75b00124de4c5",
+                                "name": "Hünerler"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kereviz-xqCQfL3iFa",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced48304a8a2a000137da9c",
+                            "name": "Kırmızı Lahana",
+                            "shortName": "Kırmızı Lahana",
+                            "shortDescription": "1 Adet",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_kirmizilahana_5ced48304a8a2a000137da9c.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_kirmizilahana_5ced48304a8a2a000137da9c.png",
+                                "https://market-product-images-cdn.getirapi.com/product/d1b04685-b61e-47f8-80cb-d62a408753b6.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514c8d79b13881d19e27c5"
+                            ],
+                            "displayType": 0,
+                            "price": 99.99,
+                            "priceText": "₺99,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kirmizi-lahana-PAEJ56OneQ",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f8fe4dee779340a2981b5d8",
+                            "name": "Siyah Turp",
+                            "shortName": "Siyah Turp",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/siyahturp_5f8fe4dee779340a2981b5d8.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/siyahturp_5f8fe4dee779340a2981b5d8.png",
+                                "https://market-product-images-cdn.getirapi.com/product/18f1a1db-947f-422e-83cf-df439e18d397.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 59.98,
+                            "unitPriceText": "(₺59,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "siyah-turp-r0UmUrZDu6",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f74e3162ca6673cf5b73ca0",
+                            "name": "Vezir Turp",
+                            "shortName": "Vezir Turp",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/VezirTurp.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/VezirTurp.png",
+                                "https://market-product-images-cdn.getirapi.com/product/5e1e58a4-dfbd-4f49-aa83-7bb6ce8b2b14.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 59.98,
+                            "unitPriceText": "(₺59,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "vezir-turp-B6uPh9bzXj",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced482f4a8a2a000137da81",
+                            "name": "Kırmızı Turp",
+                            "shortName": "Kırmızı Turp",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/kirmiziturp_5ced482f4a8a2a000137da81.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/kirmiziturp_5ced482f4a8a2a000137da81.png",
+                                "https://market-product-images-cdn.getirapi.com/product/c64fad37-cb43-4941-a039-99b0b949957d.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 29.99,
+                            "priceText": "₺29,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 59.98,
+                            "unitPriceText": "(₺59,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "kirmizi-turp-eVDnNmLb6J",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5d37177e9bf2ab0001fd7913",
+                            "name": "Pancar",
+                            "shortName": "Pancar",
+                            "shortDescription": "1 kg",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/2_.pancar_5d37177e9bf2ab0001fd7913.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/2_.pancar_5d37177e9bf2ab0001fd7913.png",
+                                "https://market-product-images-cdn.getirapi.com/product/ffeb8da5-0e96-439b-bff4-5b177ee472fa.jpeg",
+                                "http://cdn.getir.com/product/5d37177e9bf2ab0001fd7913_tr_1564137293585.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63a47c76c6c71a21c64a24b7"
+                            ],
+                            "displayType": 0,
+                            "price": 32.99,
+                            "priceText": "₺32,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 32.99,
+                            "unitPriceText": "(₺32,99/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5bc7088233f75b00124de4c5",
+                                "name": "Hünerler"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "pancar-SyRuxOTVmD",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f8ec312f8664a74af5a45ba",
+                            "name": "Mantar",
+                            "shortName": "Mantar",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/mantar_5f8ec312f8664a74af5a45ba.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/mantar_5f8ec312f8664a74af5a45ba.png",
+                                "https://market-product-images-cdn.getirapi.com/product/2b29383a-24a6-462b-9b3a-cd76685dc957.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9",
+                                "63514d7774624d5cc499b8a0",
+                                "63514da0b1f62126fcc552d9"
+                            ],
+                            "displayType": 0,
+                            "price": 46.99,
+                            "priceText": "₺46,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 187.96,
+                            "unitPriceText": "(₺187,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "mantar-2MPeVobBDO",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5bbb7f04f362eb0031a806e2",
+                            "name": "Taze Zencefil",
+                            "shortName": "Taze Zencefil",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/zencefil_5bbb7f04f362eb0031a806e2_2.png",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5bbb7f04f362eb0031a806e2_wide_pic_tr_1642425995444.jpeg",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/zencefil_5bbb7f04f362eb0031a806e2_2.png",
+                                "https://market-product-images-cdn.getirapi.com/product/cb5ab59f-d976-4d47-9d3b-d192a7c0681f.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 64.99,
+                            "priceText": "₺64,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 259.96,
+                            "unitPriceText": "(₺259,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5bc7088233f75b00124de4c5",
+                                "name": "Hünerler"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "taze-zencefil-9BHV9oqo9a",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ceae030c461e70001cc978c",
+                            "name": "Sarımsak",
+                            "shortName": "Sarımsak",
+                            "shortDescription": "250 g",
+                            "squareThumbnailURL": "https://cdn.getir.com/product/sarimsak_5ceae030c461e70001cc978c.png",
+                            "picURLs": [
+                                "https://cdn.getir.com/product/sarimsak_5ceae030c461e70001cc978c.png",
+                                "https://market-product-images-cdn.getirapi.com/product/e514a081-0748-4e0f-8d6b-53c880062f85.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "636916b09c3cefbb7976b0d3",
+                                "63a47c76c6c71a21c64a24b7",
+                                "63d3d646e547b193a469acb7"
+                            ],
+                            "displayType": 0,
+                            "price": 69.99,
+                            "priceText": "₺69,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 279.96,
+                            "unitPriceText": "(₺279,96/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "sarimsak-al8KM4VwWR",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ced4833d349d10001e705b4",
+                            "name": "Soyulmuş Sarımsak",
+                            "shortName": "Soyulmuş Sarımsak",
+                            "shortDescription": "100 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/bb008ccf-7179-44dc-bc60-6843370d4b83.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/bb008ccf-7179-44dc-bc60-6843370d4b83.jpeg",
+                                "http://cdn.getir.com/product/5ced4833d349d10001e705b4_tr_1561377481745.jpeg",
+                                "http://cdn.getir.com/product/5ced4833d349d10001e705b4_bf9addbf-2265-483a-8448-a21bec7159cc.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "623d6d7b046e00290ff7f861",
+                                "624c0febcdf5a9c01837e897",
+                                "6351129efa8656049bce4ba6"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "6245a65610fa22b0bc463f13",
+                                "624c110a1b696588cdab1be9",
+                                "636916b09c3cefbb7976b0d3",
+                                "63a47c76c6c71a21c64a24b7",
+                                "63d3d646e547b193a469acb7"
+                            ],
+                            "displayType": 0,
+                            "price": 19.99,
+                            "priceText": "₺19,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "vakumlu-soyulmus-sarimsak-bwKIrwLTkH",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f9fc18c0dbb70b251666c31",
+                            "name": "Erüst Ayıklanmış Sebze Tabağı",
+                            "shortName": "Ayıklanmış Sebze Tabağı",
+                            "shortDescription": "500 g",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/9318df30-3edf-4be6-95fb-5d246cfa9544.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/9318df30-3edf-4be6-95fb-5d246cfa9544.jpg"
+                            ],
+                            "categoryIds": [
+                                "5928113e616cab00041ec6de",
+                                "624c0febcdf5a9c01837e897"
+                            ],
+                            "subCategoryIds": [
+                                "5928134e37e22d0004ead488",
+                                "624c110a1b696588cdab1be9"
+                            ],
+                            "displayType": 0,
+                            "price": 99.99,
+                            "priceText": "₺99,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "unitPrice": 199.98,
+                            "unitPriceText": "(₺199,98/kg)",
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5cd55f7942197a3962698d7e",
+                                "name": "Meyve-Sebze"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "ingredients": "Karnabahar, brokoli, havuç, mini kabak<br>",
+                            "slug": "erust-ayiklanmis-sebze-tabagi-osY71dHgze",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "ingredients": {
+                                    "order": 4,
+                                    "title": "İçindekiler",
+                                    "content": "Karnabahar, brokoli, havuç, mini kabak<br>"
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "60ad0e61ceaacf93567de73c",
+                            "name": "Bee Chef Pratik Mini Şarjlı Doğrayıcı",
+                            "shortName": "Bee Chef Şarjlı Doğrayıcı",
+                            "shortDescription": "250 ml",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/60ad0e61ceaacf93567de73c_tr_1624286086278.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/60ad0e61ceaacf93567de73c_tr_1624286086278.jpeg"
+                            ],
+                            "categoryIds": [
+                                "5b06b056b883b700044e3e4c",
+                                "5928113e616cab00041ec6de"
+                            ],
+                            "subCategoryIds": [
+                                "5b06b1dcd5bff900046190de",
+                                "5928134e37e22d0004ead488"
+                            ],
+                            "displayType": 0,
+                            "price": 274.5,
+                            "priceText": "₺274,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5f592f0065458a7af3c40f2b",
+                                "name": "Bee Chef"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "bee-chef-pratik-mini-sarjli-dograyici-gOLgiobwtf",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        }
+                    ]
+                }
+            ],
+            "slug": "meyve-sebze-VN2A9ap5Fm"
+        },
+        "isPublic": true
+    },
+    "result": {
+        "code": 0,
+        "message": "SUCCESS!!!"
+    }
+}

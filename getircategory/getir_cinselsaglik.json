@@ -1,0 +1,2218 @@
+{
+    "data": {
+        "category": {
+            "id": "559c07b093be370c0063dd29",
+            "type": 1,
+            "name": "Cinsel Sağlık",
+            "picURL": "https://cdn-image.getir.com/market/category/9c307300-bf01-42f8-9f0c-c63ae3cba398.png?format=webp&height=500&width=500",
+            "productCount": 41,
+            "subCategories": [
+                {
+                    "id": "56e014918d5ef80300398b52",
+                    "name": "Prezervatif",
+                    "productCount": 32,
+                    "products": [
+                        {
+                            "id": "5f3fb4b8a227554a26066fec",
+                            "name": "Durex Extreme Geciktiricili ve Tırtıklı Prezervatif",
+                            "shortName": "Durex Extreme Prezervatif",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/058decce-058d-4a97-b2c9-966c461e47c7.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/058decce-058d-4a97-b2c9-966c461e47c7.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/c7e18d9b-0b58-43b3-bdf8-3feaa512d551.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/20e6c253-e875-4d70-b639-ffd13cd96707.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/47b00c1b-d57e-4a20-8983-6232e2f63bc1.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 539.99,
+                            "priceText": "₺539,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-extreme-lTSbjuNzf8",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5fd9a04ec71114286cc08291",
+                            "name": "Durex Chill Karma",
+                            "shortName": "Durex Chill Karma",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_wide_pic_tr_1662359494791.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5fd9a04ec71114286cc08291_tr_1609142414709.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/06dec932-9918-468d-ae2f-bb1d49812d17.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "61b9ed091a62a71f128e1fec"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "639321ca6d6bc19794195d16"
+                            ],
+                            "displayType": 0,
+                            "price": 221.99,
+                            "priceText": "₺221,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-chill-karma-G8vd8PBgs1",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "602cc7b2f875b6c3c117ded3",
+                            "name": "Durex Naturals",
+                            "shortName": "Durex Naturals",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/602cc7b2f875b6c3c117ded3_tr_1614009884546.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/602cc7b2f875b6c3c117ded3_tr_1614009884546.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/9f1017e2-d37e-4015-a7ea-cf74606aefaf.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 182.99,
+                            "priceText": "₺182,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-naturals-rNKB8T2zJ0",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "626296526486a6dd954374d1",
+                            "name": "Durex Yok Ötesi Slim Fit İnce Prezervatif",
+                            "shortName": "Durex Yok Ötesi Slim Fit",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/626296526486a6dd954374d1_tr_1650899977812.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/626296526486a6dd954374d1_tr_1650899977812.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/e29a1ae7-e479-40c7-a5d0-a012cbb1a1a3.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-yok-otesi-slim-fit-prezervatif-10-lu-mxvfsfgfys",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "usage": {
+                                    "order": 6,
+                                    "title": "Kullanım",
+                                    "content": "Oda koşullarında saklayınız."
+                                },
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Menşei</b><br />Çin<br /><br /><b>Gıda İşletmecisi / Üretici / İthalatçı / Dağıtıcı</b><br />Reckitt Benckiser Temizlik Malzemesi Sanayi ve Ticaret A.Ş.<br /><br /><br><br><b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5c90a51046f6730001004dba",
+                            "name": "Durex Maraton Geciktiricili Prezervatif",
+                            "shortName": "Durex Maraton Geciktiricili ",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/69e416ac-585e-41ec-bebf-b1a512113bb5.jpg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5c90a51046f6730001004dba_wide_pic_tr_1624258730198.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/69e416ac-585e-41ec-bebf-b1a512113bb5.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/224d3f17-eba9-4b04-a2e8-e2d212e7b0df.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/50e1ffa0-5391-4509-b333-a43df2be34d9.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/a98b95fd-3ff9-4636-bfaf-e789f7caca69.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 288.99,
+                            "priceText": "₺288,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-maraton-cTreEqO1EQ",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir.<br>"
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "652ceb7c367ff206a18702fa",
+                            "name": "Durex Extreme (6'lı)",
+                            "shortName": "Durex Extreme",
+                            "shortDescription": "6'lı",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/d6313cf1-ba7c-432c-94a5-202043d1a022.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/d6313cf1-ba7c-432c-94a5-202043d1a022.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "5697c78dc181490f00c99fea"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "643672dd20314be4b760447a"
+                            ],
+                            "displayType": 0,
+                            "price": 129.5,
+                            "priceText": "₺129,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-extreme-iwsxyfthid",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5ea6a93c96ae38327290c036",
+                            "name": "Durex Yok Ötesi Ekstra His İnce Prezervatif",
+                            "shortName": "Durex Yok Ötesi Ekstra His ",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/5e0ea782-d672-48a4-a61e-f5da0fe17a38.jpg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5ea6a93c96ae38327290c036_wide_pic_tr_1632118213560.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/5e0ea782-d672-48a4-a61e-f5da0fe17a38.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/fd69f24f-55f1-4de4-9de6-cee16ced6eaa.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/d9ad3934-e636-42ae-aaba-378e5476d1f3.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/3e2ed1f3-f79e-4a46-8278-0450dc6ac497.png"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65ca6865bce666388ce7013a",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "65ca6a26f74e7bba222a3a8d",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-yok-otesi-ekstra-his-aOPJh47yuU",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "664b3c74e03bf180f9887600",
+                            "name": "Durex Yakın Hisset Prezervatif",
+                            "shortName": "Durex Yakın Hisset ",
+                            "shortDescription": "8'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/8dc38b21-63f2-4b4f-9856-e36cec0b6fdd.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/8dc38b21-63f2-4b4f-9856-e36cec0b6fdd.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/eaa2795b-63ce-4de6-b9eb-decc7699d973.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/75aa69e2-a4ce-4d62-9370-d9ebfd73bf58.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/d60a56cf-f64c-455b-a997-784d7b6c17e5.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/9fe2db30-2267-493e-892a-8fc33eec8a7d.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 199.99,
+                            "priceText": "₺199,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-yakin-hisset-prezervatif-8-li-6suen1ujmd",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e1f397037809a13d2f59da0",
+                            "name": "Durex Extreme Geciktiricili ve Tırtıklı Prezervatif ",
+                            "shortName": "Durex Extreme Prezervatif ",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/be4f828b-7c6f-415b-8c48-6c48ac5bb6a9.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/be4f828b-7c6f-415b-8c48-6c48ac5bb6a9.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/9eba19aa-c672-43aa-9abf-617ffd6b5e10.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/6a2fb7cc-1034-49a3-80f3-0cae10c74d17.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/37f90bfe-b17c-4dc4-af96-12861e291d28.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-extreme-OInBBAPEBp",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "626296feee6be96d8d0e6c75",
+                            "name": "Durex Yok Ötesi XL İnce Prezervatif ",
+                            "shortName": "Durex Yok Ötesi XL",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/45b91745-78c9-4491-8b58-11e64e70c7b2.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/45b91745-78c9-4491-8b58-11e64e70c7b2.jpg",
+                                "http://cdn.getir.com/product/626296feee6be96d8d0e6c75_tr_1650899613741.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/7b91fbfe-3008-4636-a007-6ab9209bad32.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/888dea17-b46e-4c35-8818-30018a3e49d4.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "61b9ed091a62a71f128e1fec",
+                                "65ca6865bce666388ce7013a",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "658ea96a2e6d30c267c6d44d",
+                                "65ca6a26f74e7bba222a3a8d",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-yok-otesi-xl-prezervatif-10-lu-iklfmavt6b",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "usage": {
+                                    "order": 6,
+                                    "title": "Kullanım",
+                                    "content": "Oda koşullarında saklayınız."
+                                },
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Menşei</b><br />Çin<br /><br /><b>Gıda İşletmecisi / Üretici / İthalatçı / Dağıtıcı</b><br />Reckitt Benckiser Temizlik Malzemesi Sanayi ve Ticaret A.Ş.<br /><br /><br><br><b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "61766afba1a17b040d144c8e",
+                            "name": "Durex Intense Uyarıcı Jelli ve Tırtıklı Prezervatif ",
+                            "shortName": "Durex Intense Prezervatif ",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/852b0eae-39e7-40d2-9034-dfd25c189cd7.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/852b0eae-39e7-40d2-9034-dfd25c189cd7.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/8980029f-3dfd-4f16-8f18-fdf937c63e2d.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/e3d31af5-1b68-4919-a9a0-ce6a84b8b863.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/839251b3-e49e-412f-bc5d-857a70b2a3dc.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "6220aade4b7e8f42a3100532",
+                                "65ca6865bce666388ce7013a"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "6220ab46c070e11345a82299",
+                                "65ca6a26f74e7bba222a3a8d"
+                            ],
+                            "displayType": 0,
+                            "price": 539.99,
+                            "priceText": "₺539,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-intense-uyarici-prezervatif-20li-4hvof7aevk",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "63d7695b5662b143dbc24eec",
+                            "name": "Durex Maraton Geciktiricili Prezervatif",
+                            "shortName": "Durex Maraton Gecikticili",
+                            "shortDescription": "6'lı",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/d4e59445-c327-44c8-844b-47cb7f0485e7.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/d4e59445-c327-44c8-844b-47cb7f0485e7.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/074c5c02-8610-40d4-8805-0ab0b11da858.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 108.47,
+                            "priceText": "₺108,47",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-maraton-6-li-prezervatif-pp3291wacu",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f3fb5e34d6f623dc78b4dcd",
+                            "name": "Durex Yakın Hisset İnce Prezervatif",
+                            "shortName": "Durex Yakın Hisset",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5f3fb5e34d6f623dc78b4dcd_tr_1625653711180.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5f3fb5e34d6f623dc78b4dcd_tr_1625653711180.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/f3365d90-1bd6-4231-8a74-634358f9d695.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "6220aade4b7e8f42a3100532",
+                                "6555c3d2ffdcd3491c581aef",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "6220ab46c070e11345a82299",
+                                "65d89fb2b2f656e7603256e6",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 329.99,
+                            "priceText": "₺329,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-yakin-hisset-QSqta7N7LA",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "668e666025eef01deaf934ad",
+                            "name": "Durex Intense Prezervatif & Çanta İkilisi",
+                            "shortName": "Durex Intense Prezervatif & Çanta",
+                            "shortDescription": "2 Ürün",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0f8fadc9-1db4-4a3f-8d52-f1ebcb8bde90.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/0f8fadc9-1db4-4a3f-8d52-f1ebcb8bde90.png"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-intense-prezervatif-canta-ikilisi-fzoprb6mvv",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "61766cc05e380aa8c68b0c82",
+                            "name": "Durex Maraton Geciktiricili Prezervatif",
+                            "shortName": "Durex Maraton Gecikticili",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/cfeafbe1-2e96-400b-bce9-06eb9160881d.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/cfeafbe1-2e96-400b-bce9-06eb9160881d.png",
+                                "http://cdn.getir.com/product/61766cc05e380aa8c68b0c82_62333209-e8ad-45e7-a45c-13e1d53e2824.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/4ab0ddb0-852d-490f-81f8-df38dcbf2a96.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/e05a923b-a69f-462d-90dd-ac85b2958dd1.png",
+                                "https://market-product-images-cdn.getirapi.com/product/5bf1953d-7434-420b-b9db-05ccd58cc5e0.png"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "6723591cbde254c5126080a7"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "672359dbe724a1f04ae524f4"
+                            ],
+                            "displayType": 0,
+                            "price": 432.99,
+                            "priceText": "₺432,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-maraton-geciktiricili-prezervatif-20li-nwf8djlygr",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5b17e19e4f8f4f00049773a7",
+                            "name": "Durex Intense Uyarıcı Jelli ve Tırtıklı Prezervatif ",
+                            "shortName": "Durex Intense Prezervatif",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/a1effcfa-39b5-40f5-98d8-1a2b2b231cc1.jpg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5b17e19e4f8f4f00049773a7_wide_pic_tr_1640601055193.jpeg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/a1effcfa-39b5-40f5-98d8-1a2b2b231cc1.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/1bd1a938-e3d2-47d1-801a-e346a479ad67.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/80d4cfef-1846-4bb5-aa01-13b7952c4003.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/27d6729b-dc1c-4937-bba0-5f9d9db476f5.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/4a1c00ba-5f21-4fe1-83c6-4ee474b80f2a.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65ca6865bce666388ce7013a",
+                                "65cb0ec1ecb3abf15afd6a81"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "65ca6a26f74e7bba222a3a8d",
+                                "65cb12dfebc386a0263fad8d"
+                            ],
+                            "displayType": 0,
+                            "price": 356.99,
+                            "priceText": "₺356,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-intense-oe8J2F4RhT",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Teslim edilen ürün farklı ambalajlardan biri olabilir.<br><br>Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir.<br>"
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "6397079f60d395465ea07678",
+                            "name": "Durex Chill Karma Paket Prezervatif",
+                            "shortName": "Durex Chill Karma Paket ",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/ef8195a1-b16e-4f75-833e-3519aec919fc.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/ef8195a1-b16e-4f75-833e-3519aec919fc.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/d1cbda74-03d6-42cb-859a-f9aa35013aaa.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/d653f2d4-9e3f-4add-bcd9-cfe13b12f8e2.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/1d244270-c836-42c8-8ef9-9b9bfce2b98c.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/88d9ea5a-def7-4588-a66c-83ace57c3303.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/82187e85-78fd-49e1-815d-b734aff3f88c.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 149.95,
+                            "priceText": "₺149,95",
+                            "status": 1,
+                            "struckPrice": 245.5,
+                            "struckPriceText": "₺245,50",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-chill-karma-prezervatif-10-lu-wjszz7sjqx",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "56596a4b783d200c00662852",
+                            "name": "OKEY Zero",
+                            "shortName": "OKEY Zero",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/56596a4b783d200c00662852_tr_1608532770360.jpeg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/56596a4b783d200c00662852_wide_pic_tr_1647252807443.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/56596a4b783d200c00662852_tr_1608532770360.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 168.99,
+                            "priceText": "₺168,99",
+                            "status": 1,
+                            "struckPrice": 210.95,
+                            "struckPriceText": "₺210,95",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-zero-f74Qqc89yL",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "55b212cfc188960c003b7b5f",
+                            "name": "OKEY Rötar Geciktirici Etkili",
+                            "shortName": "OKEY Rötar",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/7aa6c048-6f07-483a-94cf-90ba2dc3b09d.jpg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "61b9ed091a62a71f128e1fec",
+                                "64b69f8f72bb5d160044c31c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "639321ca6d6bc19794195d16",
+                                "64b78567ebd109404a39ab7b"
+                            ],
+                            "displayType": 0,
+                            "price": 155.5,
+                            "priceText": "₺155,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-rotar-geciktirici-etkili-4ovvs4O6s4",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "66ed4ebfb72fb90298f2f0a3",
+                            "name": "Okey Zero Tenn Prezervatif ",
+                            "shortName": "Okey Zero Tenn Prezervatif ",
+                            "shortDescription": "8 Adet",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/eacdbfa3-f63d-414c-b372-7830614b361b.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/eacdbfa3-f63d-414c-b372-7830614b361b.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/68a544d1-cd3e-48bd-9b4d-ae2b7ae3b5ee.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/a99f23df-5034-4b63-8103-89877a5707ce.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/33bd955a-4e5c-4542-86c4-d70766f6a910.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "641170494299463fa9f5e562",
+                                "65701bbee11548e2cf68725a",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "6411730868ad48e46425b139",
+                                "65e33e62dc72c870fbe1807d",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 166.5,
+                            "priceText": "₺166,50",
+                            "status": 1,
+                            "struckPrice": 332.99,
+                            "struckPriceText": "₺332,99",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-zero-tenn-prezervatif-8-li-4lzk8pauh3",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "55a021bb35a77b0c0075d126",
+                            "name": "OKEY Çifte Haz",
+                            "shortName": "OKEY Çifte Haz",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/55a021bb35a77b0c0075d126_tr_1608619156461.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/55a021bb35a77b0c0075d126_tr_1608619156461.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 136.95,
+                            "priceText": "₺136,95",
+                            "status": 1,
+                            "struckPrice": 166.5,
+                            "struckPriceText": "₺166,50",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-cifte-haz-NoLYGgcjyA",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "606ee8d6308bf41d441b4efd",
+                            "name": "OKEY Ritim",
+                            "shortName": "OKEY Ritim",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/606ee8d6308bf41d441b4efd_tr_1619617175728.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/606ee8d6308bf41d441b4efd_tr_1619617175728.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 58.05,
+                            "priceText": "₺58,05",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-ritim-ZlJ29dPs7z",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "628dc584f563f9100b531ae9",
+                            "name": "Okey Ultra Hisset",
+                            "shortName": "Okey Ultra Hisset",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/628dc584f563f9100b531ae9_tr_1653899559802.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/628dc584f563f9100b531ae9_tr_1653899559802.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 166.5,
+                            "priceText": "₺166,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-ultra-hisset-10lu-eedt5pmpf6",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5bacaf555aeb1d5c66a5cc59",
+                            "name": "OKEY Nirvana",
+                            "shortName": "OKEY Nirvana",
+                            "shortDescription": "10'lu",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5bacaf555aeb1d5c66a5cc59_tr_1608619218719.jpeg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/5bacaf555aeb1d5c66a5cc59_wide_pic_tr_1646044595608.png",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5bacaf555aeb1d5c66a5cc59_tr_1608619218719.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 184.99,
+                            "priceText": "₺184,99",
+                            "status": 1,
+                            "struckPrice": 266.5,
+                            "struckPriceText": "₺266,50",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-nirvana-vq27PZ7Qnh",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "645d105b97346788d8ce1876",
+                            "name": "Okey Nirvana Hot Ekonomik Paket",
+                            "shortName": "Okey Nirvana Hot",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0b56fbe7-6d61-4d8f-92cd-bc20978c5e18.jpg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/2a9dbc1a-ebd7-424c-96d7-cdaa70537012.png",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/0b56fbe7-6d61-4d8f-92cd-bc20978c5e18.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "654a33f6697c2c3099cd34df",
+                                "66698e7a2bfa508c870c76ab",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "6555fe90d84e620d29055e80",
+                                "65573f86d1ebc8c04d76c684",
+                                "6565a10e830a334b131da8c8",
+                                "66698f74c5ca67aaf36f819f",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 413.5,
+                            "priceText": "₺413,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-nirvana-hot-20-li-ekonomik-7fa9qtucmf",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f2194333b3f704475810f01",
+                            "name": "OKEY Rötar Ekonomik Paket",
+                            "shortName": "OKEY Rötar",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5f2194333b3f704475810f01_tr_1608619238575.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5f2194333b3f704475810f01_tr_1608619238575.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 266.5,
+                            "priceText": "₺266,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-rotar-ekonomik-paket-RGrznw64VC",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e81d95b6ce4e791926961ae",
+                            "name": "OKEY Ultra Hisset",
+                            "shortName": "OKEY Ultra Hisset",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5e81d95b6ce4e791926961ae_tr_1604781124405.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5e81d95b6ce4e791926961ae_tr_1604781124405.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 277.99,
+                            "priceText": "₺277,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-ultra-hisset-bOBHieYYkl",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f21965632610e89a20615c4",
+                            "name": "OKEY Klasik Ekonomik Paket",
+                            "shortName": "OKEY Klasik",
+                            "shortDescription": "20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5f21965632610e89a20615c4_tr_1608619225922.jpeg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/74954972-4ddc-4fab-a962-d009af699d75.jpg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5f21965632610e89a20615c4_tr_1608619225922.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "641170494299463fa9f5e562",
+                                "65701bbee11548e2cf68725a",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "6411730868ad48e46425b139",
+                                "65e33e62dc72c870fbe1807d",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 172.99,
+                            "priceText": "₺172,99",
+                            "status": 1,
+                            "struckPrice": 288.6,
+                            "struckPriceText": "₺288,60",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-klasik-ekonomik-paket-mPgfHQ4rUx",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "66d848697ae6f51656cce039",
+                            "name": "Okey Ekstra Zevk Prezervatif",
+                            "shortName": "Okey Ekstra Zevk ",
+                            "shortDescription": "30'lu",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/3124aa13-fa7e-43bc-a9e2-61d4162058fe.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/3124aa13-fa7e-43bc-a9e2-61d4162058fe.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 443.99,
+                            "priceText": "₺443,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-ekstra-zevk-prezervatif-30-lu-2go2m6hv5e",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "632b1d91b14742ab76129a38",
+                            "name": "OKEY Zirve",
+                            "shortName": "OKEY Zirve",
+                            "shortDescription": "45'li",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/cb401e82-66dd-4bcc-8a17-fb1ab21e740b.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/cb401e82-66dd-4bcc-8a17-fb1ab21e740b.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "641170494299463fa9f5e562",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "6411730868ad48e46425b139",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 533.5,
+                            "priceText": "₺533,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-zirve-45-li-hv19othhvh",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5f21984a71dfbcb9f1486f66",
+                            "name": "OKEY Nirvana & Hisset Ekonomik Paket",
+                            "shortName": "OKEY Nirvana & Hisset",
+                            "shortDescription": "2 x 20'li",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/5f21984a71dfbcb9f1486f66_tr_1608619232117.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/5f21984a71dfbcb9f1486f66_tr_1608619232117.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "654a33f6697c2c3099cd34df",
+                                "66698e7a2bfa508c870c76ab",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014918d5ef80300398b52",
+                                "654a5b77e9840d99ce0b1b80",
+                                "65573a08c0208ec8a26b3891",
+                                "65659eb7f68acfbd9831fb29",
+                                "66698f74c5ca67aaf36f819f",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 588.5,
+                            "priceText": "₺588,50",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-nirvana-hisset-ekonomik-paket-HhXzMhCTP7",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "67766a4a14d1281dfcdbbc98",
+                            "name": "OKEY Rötar Geciktirici Etkili (10'lu) & Mini Jel",
+                            "shortName": "OKEY Rötar & Mini Jel",
+                            "shortDescription": "2 Ürün",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/ff093e6a-cf91-439d-89fd-611c1ffc3e18.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/ff093e6a-cf91-439d-89fd-611c1ffc3e18.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 157.5,
+                            "priceText": "₺157,50",
+                            "status": 1,
+                            "struckPrice": 355.49,
+                            "struckPriceText": "₺355,49",
+                            "bundleItems": [
+                                {
+                                    "id": "672b708b02506c4552a39c9c",
+                                    "count": 1,
+                                    "name": "Okey Zero Jel ",
+                                    "shortDescription": "50 ml",
+                                    "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/b4461d77-460f-4091-917b-4456039e85a2.jpg",
+                                    "currency": {
+                                        "symbol": "₺",
+                                        "codeAlpha": "TRY",
+                                        "isSymbolFirst": true
+                                    },
+                                    "badgeImages": []
+                                },
+                                {
+                                    "id": "55b212cfc188960c003b7b5f",
+                                    "count": 1,
+                                    "name": "OKEY Rötar Geciktirici Etkili",
+                                    "shortDescription": "10'lu",
+                                    "squareThumbnailURL": "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg",
+                                    "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/7aa6c048-6f07-483a-94cf-90ba2dc3b09d.jpg",
+                                    "currency": {
+                                        "symbol": "₺",
+                                        "codeAlpha": "TRY",
+                                        "isSymbolFirst": true
+                                    },
+                                    "badgeImages": []
+                                }
+                            ],
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-rotar-geciktirici-etkili-10-lu-x-mini-jel-sg6obviul3",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "56e014a8dc83940300af410f",
+                    "name": "Jel",
+                    "productCount": 9,
+                    "products": [
+                        {
+                            "id": "67766a4a14d1281dfcdbbc98",
+                            "name": "OKEY Rötar Geciktirici Etkili (10'lu) & Mini Jel",
+                            "shortName": "OKEY Rötar & Mini Jel",
+                            "shortDescription": "2 Ürün",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/ff093e6a-cf91-439d-89fd-611c1ffc3e18.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/ff093e6a-cf91-439d-89fd-611c1ffc3e18.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "56e014918d5ef80300398b52"
+                            ],
+                            "displayType": 0,
+                            "price": 157.5,
+                            "priceText": "₺157,50",
+                            "status": 1,
+                            "struckPrice": 355.49,
+                            "struckPriceText": "₺355,49",
+                            "bundleItems": [
+                                {
+                                    "id": "672b708b02506c4552a39c9c",
+                                    "count": 1,
+                                    "name": "Okey Zero Jel ",
+                                    "shortDescription": "50 ml",
+                                    "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/b4461d77-460f-4091-917b-4456039e85a2.jpg",
+                                    "currency": {
+                                        "symbol": "₺",
+                                        "codeAlpha": "TRY",
+                                        "isSymbolFirst": true
+                                    },
+                                    "badgeImages": []
+                                },
+                                {
+                                    "id": "55b212cfc188960c003b7b5f",
+                                    "count": 1,
+                                    "name": "OKEY Rötar Geciktirici Etkili",
+                                    "shortDescription": "10'lu",
+                                    "squareThumbnailURL": "http://cdn.getir.com/product/55b212cfc188960c003b7b5f_tr_1608619309410.jpeg",
+                                    "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/7aa6c048-6f07-483a-94cf-90ba2dc3b09d.jpg",
+                                    "currency": {
+                                        "symbol": "₺",
+                                        "codeAlpha": "TRY",
+                                        "isSymbolFirst": true
+                                    },
+                                    "badgeImages": []
+                                }
+                            ],
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-rotar-geciktirici-etkili-10-lu-x-mini-jel-sg6obviul3",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5602763b54d25b0c006a39fd",
+                            "name": "Durex Aloe Vera 2si 1 Arada Kayganlaştırıcı & Masaj Jeli",
+                            "shortName": "Durex Aloe Vera Masaj Jeli",
+                            "shortDescription": "200 ml",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/e85c663d-35d5-4389-8b42-5f464e81355f.png",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0252c55c-1acb-46b7-8e81-835ce26f909a.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/e85c663d-35d5-4389-8b42-5f464e81355f.png",
+                                "https://market-product-images-cdn.getirapi.com/product/bedec846-75e6-4615-99a6-4d523ace202d.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/70585552-bd46-4e80-b17e-12ee544a2834.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "61b9ed091a62a71f128e1fec",
+                                "65ca6865bce666388ce7013a",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "639321ca6d6bc19794195d16",
+                                "65ca6a26f74e7bba222a3a8d",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 249.95,
+                            "priceText": "₺249,95",
+                            "status": 1,
+                            "struckPrice": 428.4,
+                            "struckPriceText": "₺428,40",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-play-masaj-jeli-WwufrREnLo",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "604b575184688445ac4e26c7",
+                            "name": "Durex Play Çilekli Kayganlaştırıcı Jel ",
+                            "shortName": "Durex Play Çilekli Jel",
+                            "shortDescription": "50 ml",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/9e44fa51-750f-4448-b880-9e8ae6ded48a.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/9e44fa51-750f-4448-b880-9e8ae6ded48a.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/eca220fe-60e8-4714-803c-d41c8f9351fc.jpeg",
+                                "https://market-product-images-cdn.getirapi.com/product/f9570aab-8ffa-412a-8192-3263f51aab2d.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "6723591cbde254c5126080a7"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "672359dbe724a1f04ae524f4"
+                            ],
+                            "displayType": 0,
+                            "price": 339.99,
+                            "priceText": "₺339,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-play-cilekli-jel-JcUVERkKlF",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "5e1f358537809aafb7f59ada",
+                            "name": "Durex Naturals Pure Kayganlaştırıcı Jel",
+                            "shortName": "Durex Naturals Pure Jel",
+                            "shortDescription": "100 ml",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/28b7448e-0107-4e61-91f4-074d24937f1a.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/28b7448e-0107-4e61-91f4-074d24937f1a.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/49ac7e64-725a-46a0-b2ed-c3e7c8211bf0.jpg",
+                                "https://market-product-images-cdn.getirapi.com/product/18cdb5c3-2aa0-4acd-a8f4-5cffd6deed26.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "6742391c49282cf8ed721f6c",
+                                "678134182edbe1bcf90375c0"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "65e33e62dc72c870fbe1807d",
+                                "67423a7fce3853a736ec6989",
+                                "6783c90fd0f238bd92125975"
+                            ],
+                            "displayType": 0,
+                            "price": 249.95,
+                            "priceText": "₺249,95",
+                            "status": 1,
+                            "struckPrice": 428.4,
+                            "struckPriceText": "₺428,40",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acbf7d",
+                                "name": "Durex"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "durex-naturals-pure-kayganlastirici-jel-KV4sAsIs4x",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": [],
+                                "additionalInfos": {
+                                    "order": 7,
+                                    "title": "Ek Bilgiler",
+                                    "content": "<b>Uyarı</b><br><br> Ürün etiket bilgileri, ürünün tedarikçisi tarafından Getir'e iletilen en güncel bilgilerdir. Ürün etiket bilgileri ile uygulamada bulunan bilgiler arasında herhangi bir farklılık bulunması halinde sorumluluk tamamen tedarikçi firmaya aittir."
+                                }
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "672b708b02506c4552a39c9c",
+                            "name": "Okey Zero Jel ",
+                            "shortName": "Okey Zero Jel ",
+                            "shortDescription": "50 ml",
+                            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/b4461d77-460f-4091-917b-4456039e85a2.jpg",
+                            "picURLs": [
+                                "https://market-product-images-cdn.getirapi.com/product/b4461d77-460f-4091-917b-4456039e85a2.jpg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f"
+                            ],
+                            "displayType": 0,
+                            "price": 199.99,
+                            "priceText": "₺199,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-zero-jel-50-ml-ehbpobzxn4",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "593e7dc7f863e90004a704d0",
+                            "name": "OKEY Ginseng Etkili Masaj Jeli",
+                            "shortName": "OKEY Ginseng",
+                            "shortDescription": "200 ml",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/593e7dc7f863e90004a704d0_tr_1608619143365.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/593e7dc7f863e90004a704d0_tr_1608619143365.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "654a33f6697c2c3099cd34df",
+                                "641170494299463fa9f5e562",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "5fd8ab034f82eb636f8f3c8b",
+                                "6555fe90d84e620d29055e80",
+                                "65573f86d1ebc8c04d76c684",
+                                "6565a10e830a334b131da8c8",
+                                "6411730868ad48e46425b139",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 288.99,
+                            "priceText": "₺288,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-ginseng-etkili-masaj-jeli-borW6HC7oN",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "593e7c53fe69740004bb1035",
+                            "name": "OKEY Çilekli Kayganlaştırıcı Jel",
+                            "shortName": "OKEY Çilekli",
+                            "shortDescription": "100 ml",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/593e7c53fe69740004bb1035_tr_1631535746684.jpeg",
+                            "wideThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/4e44e67f-0afb-4fcb-83c0-4c18602d2247.jpg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/593e7c53fe69740004bb1035_tr_1631535746684.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "641170494299463fa9f5e562",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "6411730868ad48e46425b139",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 199.99,
+                            "priceText": "₺199,99",
+                            "status": 1,
+                            "struckPrice": 332.95,
+                            "struckPriceText": "₺332,95",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-cilekli-kayganlastirici-jel-X9nLoABrfD",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "62b1c297b444535ddcf7e9bb",
+                            "name": "OKEY Zero Kokusuz Kayganlaştırıcı Jel",
+                            "shortName": "OKEY Zero Kayganlaştırıcı Jel",
+                            "shortDescription": "100 ml",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/62b1c297b444535ddcf7e9bb_tr_1655909171798.jpeg",
+                            "wideThumbnailURL": "http://cdn.getir.com/product/62b1c297b444535ddcf7e9bb_wide_pic_tr_1656919782060.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/62b1c297b444535ddcf7e9bb_tr_1655909171798.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29",
+                                "65701bbee11548e2cf68725a",
+                                "678134182edbe1bcf90375c0",
+                                "551430043427d5010a3a5c5c"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f",
+                                "65e33e62dc72c870fbe1807d",
+                                "6783c90fd0f238bd92125975",
+                                "679722288c00a7ea85b2e3d6"
+                            ],
+                            "displayType": 0,
+                            "price": 204.95,
+                            "priceText": "₺204,95",
+                            "status": 1,
+                            "struckPrice": 332.99,
+                            "struckPriceText": "₺332,99",
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-zero-kayganlastirici-jel-100-ml-8l2ywacc6r",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        },
+                        {
+                            "id": "606ee7432316a12f2bf5f9c2",
+                            "name": "OKEY Nirvana Uyarıcı Jel",
+                            "shortName": "OKEY Nirvana",
+                            "shortDescription": "100 ml",
+                            "squareThumbnailURL": "http://cdn.getir.com/product/606ee7432316a12f2bf5f9c2_tr_1631535758372.jpeg",
+                            "picURLs": [
+                                "http://cdn.getir.com/product/606ee7432316a12f2bf5f9c2_tr_1631535758372.jpeg"
+                            ],
+                            "categoryIds": [
+                                "559c07b093be370c0063dd29"
+                            ],
+                            "subCategoryIds": [
+                                "56e014a8dc83940300af410f"
+                            ],
+                            "displayType": 0,
+                            "price": 332.99,
+                            "priceText": "₺332,99",
+                            "status": 1,
+                            "infoMessages": [],
+                            "currency": {
+                                "symbol": "₺",
+                                "codeAlpha": "TRY",
+                                "isSymbolFirst": true
+                            },
+                            "additionalPropertyTables": [],
+                            "brand": {
+                                "id": "5aae7beb3c0b5484c7acc01b",
+                                "name": "Okey"
+                            },
+                            "tags": [],
+                            "type": 1,
+                            "slug": "okey-nirvana-uyarici-jel-TygzSTJEuU",
+                            "badgeImages": [],
+                            "details": {
+                                "descriptions": {
+                                    "order": 3,
+                                    "title": "Detaylar",
+                                    "tags": []
+                                },
+                                "additionalPropertyTables": []
+                            },
+                            "unit": 1
+                        }
+                    ]
+                }
+            ],
+            "slug": "cinsel-saglik-viPc8mv9zd"
+        },
+        "isPublic": true
+    },
+    "result": {
+        "code": 0,
+        "message": "SUCCESS!!!"
+    }
+}
