@@ -1,96 +1,159 @@
-Ürün,En Düşük Fiyat,Ürün Adı
-Mercimek,3.99,Bizim Mutfak Superfoods Bakliyatlı Kinoalı Mercimek Çorbası
-Kinoa,3.99,Bizim Mutfak Superfoods Bakliyatlı Kinoalı Mercimek Çorbası
-Ceviz,4.99,Eti Puf Hindistan Cevizli Bisküvi
-Hindi,4.99,Eti Puf Hindistan Cevizli Bisküvi
-Et,4.99,Eti Puf Kakaolu Bisküvi
-Limon,4.99,Selin Limon Kolonyası
-Çilek,5.0,Danino Ice Çilekli Dondurma
-Kraker,5.99,Ülker Çubuk Kraker
-Balık,6.1,Felix Ton Balıklı Pouch Yaş Kedi Maması
-Bal,6.1,Felix Ton Balıklı Pouch Yaş Kedi Maması
-Çay,6.1,Lipton Dökme Bergamot Aromalı Siyah Çay
-Ton Balığı,6.1,Felix Ton Balıklı Pouch Yaş Kedi Maması
-Fındık,6.5,Nestlé Kaplamasız Fındık Kremalı Gofret 
-Kola,6.7,Ülker Çikolatalı Gofret McVitie's Bisküvili
-Üzüm,6.99,Yayla Üzüm Hoşafı
-Yoğurt,7.45,Knorr Zerdeçallı Tahıllı Yoğurt Çorbası
-Süt,7.5,Milupa Organik Sütlaç Kavanoz Maması
-Muz,7.5,Ülker Rondo Muz Aromalı Bisküvi
-Un,7.5,Le Petit Marseillais Akdeniz Çileği Bakım Sabunu
-Tavuk,7.99,Dudomi Tavuk Çeşnili Noodle
-Badem,7.99,Ülker Sade Badem Kraker
-Baharat,8.5,Ülker Krispi Baharatlı Çubuk Kraker
-Ayran,8.7,Eker Probiyotik Ayran
-Portakal,8.99,Ülker Piko Pirinç Patlaklı Portakallı Bar
-Havuç,8.99,Luppo Lup Lup Havuçlu Tarçınlı
-Pirinç,8.99,Ülker Piko Pirinç Patlaklı Portakallı Bar
-Peynir,9.5,Ülker Krispi Peynirli Çubuk Kraker
-Lor Peyniri,9.99,La Lorraine Peynirli Poğaça
-Biber,9.99,Arifoğlu Biberiye
-Ekmek,10.0,Ekmek
-Tuz,10.0,Clasigo Tuzlu Karamelli Çikolata Kaplı Bar
-Sos,10.5,Eti Popkek PopGPT Frambuaz Soslu
-Şeker,10.5,Dr. Oetker Şekerli Vanilin
-Elma,10.99,Tamek Limo Elma Aromalı Limonata 
-Mısır,10.99,Doritos Shots Flamin' Hot Acı Biberli ve Peynirli Mısır Cipsi
-Fıstık,11.1,Tadım Yer Fıstıklı Bar
-Domates,11.99,Eti Form Domatesli Zeytinli ve Kekikli Bisküvi
-Zeytin,11.99,Eti Form Domatesli Zeytinli ve Kekikli Bisküvi
-Şeftali,11.99,Aroma %100 Şeftali ve Elma Suyu 
-Somon,13.3,Whiskas Somon Balıklı Yaş Kedi Maması
-Nar,13.99,Pınar Kido Kakaolu Süt
-Maden Suyu,14.4,Damla Minera Doğal Maden Suyu
-Yulaf,14.99,Eker İncirli & Yulaflı Yoğurt
-Erik,15.99,Erikli Doğal Kaynak Suyu
-Kefir,16.5,Eker Kefir Elmalı Tarçınlı
-Fasulye,16.79,Tukaş Haşlanmış Hazır Kuru Fasulye
-Yumurta,16.99,Toybox Max Yumurta Kız
-Soğan,17.99,Ülker Çizi Çıtır Peynir & Soğan Aromalı Kraker
-Leblebi,17.99,List Nuts Kavrulmuş Sarı Leblebi
-Nohut,19.99,Yayla Nohutlu Bulgur Pilavı
-Bulgur,19.99,Yayla Nohutlu Bulgur Pilavı
-Sarımsak,19.99,Soyulmuş Sarımsak
-Kayısı,19.99,Milupa Organik Kayısı ve Muz Kavanoz Maması
-Hurma,19.99,Tadım Hurmalı Bar
-Zeytinyağı,20.6,Duru Natural Olive Doğal Zeytinyağlı Sıvı Sabun
-Makarna,21.5,Knorr Çabuk Kajun Tavuk Bardak Makarna
-Kaju,21.5,Knorr Çabuk Kajun Tavuk Bardak Makarna
-Sirke,21.9,Knorr Sirkeli ve Sarımsaklı Salata Sosu
-Konserve,21.99,Jazzy Dardanel Konserve Kedi Maması Ton Balıklı
-Patates,21.99,Lay's Klasik Patates Cipsi 
-Mandalina,22.5,Schweppes Mandalina 
-Galeta,22.5,Arifoğlu Galeta Unu
-Kahve,24.5,Kiwi Likit Ayakkabı Boyası Kahverengi
-Karpuz,24.5,Olips Çiğne Karpuz Aromalı Şeker
-Kavun,25.41,Cook Çöp Torbası Büyük Boy Kavun Kokulu
-Tereyağ,25.5,La Lorraine Tereyağlı Kruvasan
-Helva,25.99,Emek Sade Helva
-Kiraz,26.5,Efor Kiraz Saplı Form Çayı
-Börülce,27.99,Duru Pratik Haşlanmış Börülce
-Kereviz,28.5,Eker Kefir Muzlu Ananaslı Kerevizli
-Reçel,28.99,Remziye Hanım Çiftliği Çilek Reçeli
-Turp,29.99,Siyah Turp
-Salatalık,30.9,Kemal Kükrer Salatalık Turşusu
-Yeşil Mercimek,30.99,Yayla Haşlanmış Susuz Yeşil Mercimek
-Greyfurt,32.99,Greyfurt
-Kaymak,33.3,İçim Kaymaksız Yoğurt
-Pekmez,33.99,Veg & Bones Keçi Sütlü Keçiboynuzu Pekmezli Sütlaç
-Armut,38.5,Red Bull Winter Edition Armut Tarçın Enerji İçeceği
-Barbunya,38.99,Tat Barbunya Pilaki
-Bezelye,38.99,Tat Bezelye
-Salça,44.3,Tamek Domates Salçası
-Kırmızı Mercimek,48.99,Reis Kırmızı Mercimek
-Patlıcan,51.5,Patlıcanlı Börek & Cola Zero İkilisi
-Kabak,52.99,Kabak
-Avokado,54.99,Yemeye Hazır Avokado
-Tahin,55.5,Wefood Tahinli Kraker
-Gazlı İçecek,58.8,Kızılay Plus Açai & Çilek Aromalı Doğal Mineralli Gazlı İçecek
-Kivi,59.99,Kivi
-Brokoli,62.5,Veg & Bones Kemik Sulu Brokoli Çorbası
-Lahana,99.99,Kırmızı Lahana
-Enginar,106.99,Tada Zeytinyağlı Mercimekli Enginar
-Karnabahar,109.99,Karnabahar
-Pırasa,109.99,Pırasa
-Bamya,133.5,Tat Sultani Bamya
-Kestane,365.99,L’Oréal Paris Saç Boyası Koyu Kestane 3
+Ürün,En Düşük Fiyat,Ürün Adı,Gram,KG Fiyatı,Birim
+Ekmek,10.0,Ekmek,250.0,40.0,1
+Mısır,121.5,Nestlé Nesquik Kakaolu Buğday ve Mısır Gevreği 700g  ,700.0,173.57,1
+Tavuk,88.99,Erpiliç Tabaklı Piliç But,500.0,177.98,1
+Tavuk But,88.99,Erpiliç Tabaklı Piliç But,500.0,177.98,1
+Tam Buğday,44.5,Söke Tam Buğday Ekmek Karışımı,250.0,178.0,1
+Pirinç,107.5,"Nestlé Nesfit Kırmızı Meyveli Tam Tahıl, Pirinç Gevreği 400g",400.0,268.75,1
+Tavuk Pirzola,158.99,Erpiliç Piliç Pirzola,500.0,317.98,1
+Hindi,161.5,Palmolive Body Butter Hindistan Cevizi Banyo ve Duş Jeli,500.0,323.0,1
+Hindi Göğüs,192.99,Bolca Hindi Göğüs Sote,500.0,385.98,1
+Tavuk Kanat,207.99,Erpiliç Kanat Izgara,500.0,415.98,1
+Kahve,264.99,Nescafé Classic Çözünebilir Kahve 200g Ekonomik Paket,200.0,1324.95,1
+Bulgur,19.99,Yayla Nohutlu Bulgur Pilavı,,,1
+Pilavlık Bulgur,31.99,Reis Pilavlık Bulgur,,,1
+Köftelik Bulgur,45.5,Tat Köftelik Bulgur,,,1
+Baldo Pirinç,83.3,Hasata Gönen Baldo Pirinç,,,1
+Jasmine Pirinç,66.99,Çiftçi Jasmine Pirinç,,,1
+Osmancık Pirinç,67.99,Çiftçi Osmancık Pirinç,,,1
+Makarna,21.5,Knorr Çabuk Kajun Tavuk Bardak Makarna,,,1
+Spagetti,21.99,Mutlu Spagetti Makarna,,,1
+Burgu Makarna,21.99,Mutlu Burgu Makarna,,,1
+Fiyonk Makarna,21.99,Mutlu Fiyonk Makarna,,,1
+Erişte,21.5,Mutlu Yumurtalı Kısa Erişte,,,1
+Nohut,19.99,Yayla Nohutlu Bulgur Pilavı,,,1
+Kırmızı Mercimek,48.99,Reis Kırmızı Mercimek,,,1
+Yeşil Mercimek,30.99,Yayla Haşlanmış Susuz Yeşil Mercimek,,,1
+Fasulye,16.79,Tukaş Haşlanmış Hazır Kuru Fasulye,,,1
+Kuru Fasulye,16.79,Tukaş Haşlanmış Hazır Kuru Fasulye,,,1
+Dermason Fasulye,98.99,Tat Dermason Fasulye ,,,1
+Börülce,27.99,Duru Pratik Haşlanmış Börülce,,,1
+Barbunya,38.99,Tat Barbunya Pilaki,,,1
+Kinoa,3.99,Bizim Mutfak Superfoods Bakliyatlı Kinoalı Mercimek Çorbası,,,1
+Yulaf,14.99,Eker İncirli & Yulaflı Yoğurt,,,1
+Yulaf Ezmesi,35.5,Eti Lifalif Yulaf Ezmesi,,,1
+Laktozsuz Süt,13.99,Pınar Kido Kakaolu Laktozsuz Süt,,,1
+Ayran,8.7,Eker Probiyotik Ayran,,,1
+Kefir,16.5,Eker Kefir Elmalı Tarçınlı,,,1
+Sade Kefir,20.1,İçim Sade Kefir,,,1
+Meyveli Kefir,24.2,İçim Orman Meyveli Kefir,,,1
+Tost Ekmeği,128.99,Sinangil Gluten Yok Dilimli Tost Ekmeği,,,1
+Sandviç Ekmeği,74.9,Superfresh Fırından Sandviç Ekmeği,,,1
+Simit,8.0,Simit,,,1
+Un,19.99,Arifoğlu Mısır Unu,,,1
+Buğday Unu,36.99,Sinangil Tam Buğday Unu,,,1
+Çavdar Unu,44.5,Söke Çavdar Unu Karışımı,,,1
+Mısır Unu,19.99,Arifoğlu Mısır Unu,,,1
+Galeta,22.5,Arifoğlu Galeta Unu,,,1
+Galeta Unu,22.5,Arifoğlu Galeta Unu,,,1
+Kraker,5.99,Ülker Çubuk Kraker,,,1
+Tuzlu Kraker,111.99,Glutensiz Ada Tuzlu Kraker,,,1
+Tavuk Göğüs,77.5,Gedik Piliç Acılı Çıtır Bonfile ,,,1
+Dana Eti,177.5,Erşan Dana Kıyma Döner ,,,1
+Dana Kıyma,177.5,Erşan Dana Kıyma Döner ,,,1
+Dana Kuşbaşı,261.99,Sultan Yemeklik Dana Kuşbaşı,,,1
+Kuzu Eti,226.99,Sultan Dana - Kuzu Satır Köfte,,,1
+Hindi Füme,24.5,Namet Hindi Füme 7/24,,,1
+Hindi Jambon,31.5,Polonez Hindi Jambon,,,1
+Balık,6.1,Felix Ton Balıklı Pouch Yaş Kedi Maması,,,1
+Somon,13.3,Whiskas Somon Balıklı Yaş Kedi Maması,,,1
+Ton Balığı,6.1,Felix Ton Balıklı Pouch Yaş Kedi Maması,,,1
+Sardalya,94.5,Dardanel Zeytinyağlı Sardalya,,,1
+Kalkan,265.99,Head & Shoulders Derma X Pro Nem Kalkanı Saç Derisi Balsamı,,,1
+Kılıç Balığı,27.5,Altınkılıç Sade Kefir,,,1
+Elma,29.99,Yeşil Elma,,,1
+Starking Elma,49.99,Starking Elma,,,1
+Yeşil Elma,72.99,Granny Smith Elma,,,1
+Golden Elma,49.99,Golden Elma,,,1
+Armut,79.99,Santa Maria Armut,,,1
+Muz,62.99,Yerli Muz,,,1
+Portakal,42.99,Portakal,,,1
+Sıkmalık Portakal,42.99,Sıkmalık Portakal,,,1
+Mandalina,59.99,Mandalina,,,1
+Kivi,59.99,Kivi,,,1
+Üzüm,51.5,Üzüm,,,1
+Kavun,74.99,Kırkağaç Kavun,,,1
+Avokado,54.99,Yemeye Hazır Avokado,,,1
+Limon,42.99,Limon,,,1
+Greyfurt,32.99,Greyfurt,,,1
+Ananas,104.99,Ananas,,,1
+Yaban Mersini,104.99,Yaban Mersini,,,1
+Domates,25.99,Cherry Domates,,,1
+Salkım Domates,32.99,Salkım Domates,,,1
+Cherry Domates,25.99,Cherry Domates,,,1
+Salatalık,54.99,Çengelköy Salatalık,,,1
+Biber,29.99,Sivri Biber,,,1
+Kırmızı Biber,25.5,Zbarz Chill Kırmızı Biber Bar,,,1
+Kapya Biber,59.99,Kapya Biber,,,1
+Dolmalık Biber,71.5,Dolmalık Biber,,,1
+Patlıcan,69.99,Patlıcan,,,1
+Kabak,52.99,Kabak,,,1
+Patates,54.99,Kızartmalık Patates,,,1
+Soğan,24.99,Arpacık Soğan,,,1
+Kuru Soğan,69.99,Kuru Soğan,,,1
+Sarımsak,19.99,Soyulmuş Sarımsak,,,1
+Havuç,26.99,Havuç,,,1
+Brokoli,84.99,Brokoli,,,1
+Karnabahar,109.99,Karnabahar,,,1
+Lahana,99.99,Kırmızı Lahana,,,1
+Kırmızı Lahana,99.99,Kırmızı Lahana,,,1
+Pırasa,109.99,Pırasa,,,1
+Kereviz,99.99,Kereviz,,,1
+Turp,29.99,Siyah Turp,,,1
+Kırmızı Turp,29.99,Kırmızı Turp,,,1
+Fındık,26.5,Koska Fındıklı Cezerye,,,1
+Kavrulmuş Fındık,77.5,Nestlé 1927 Çifte Kavrulmuş Fındıklı Gofret,,,1
+Çiğ Fındık,29.99,Otto Nuts Vegan Çiğ Fındık,,,1
+Ceviz,127.99,Peyman Bahçeden Çiğ Ceviz İçi,,,1
+Badem,38.99,Otto Nuts Vegan Çiğ Badem,,,1
+Çiğ Badem,38.99,Otto Nuts Vegan Çiğ Badem,,,1
+Kavrulmuş Badem,79.99,Tadım Kavrulmuş Badem İçi,,,1
+Fıstık,68.99,Malatya Pazarı Şehzade Fıstık Lokum,,,1
+Antep Fıstığı,105.5,Tadım Kavrulmuş Antep Fıstığı,,,1
+Yer Fıstığı,24.4,Peyman Nutzz Party Peynir Aromalı Mısır Çerezi ve Yer Fıstığı,,,1
+Kaju,66.99,Tadım İşlenmiş Kaju Fıstığı,,,1
+Leblebi,17.99,List Nuts Kavrulmuş Sarı Leblebi,,,1
+Sarı Leblebi,17.99,List Nuts Kavrulmuş Sarı Leblebi,,,1
+Beyaz Leblebi,19.99,List Nuts Kavrulmuş Beyaz Leblebi ,,,1
+Ay Çekirdeği,35.99,Peyman Çitliyo Kara Şimşek Siyah Ay Çekirdeği,,,1
+Kabak Çekirdeği,57.99,Master Nut Kabak Çekirdeği,,,1
+Çay,6.1,Lipton Dökme Bergamot Aromalı Siyah Çay,,,1
+Siyah Çay,6.1,Lipton Dökme Bergamot Aromalı Siyah Çay,,,1
+Yeşil Çay,26.5,Efor Yeşil Çay Limonlu,,,1
+Bitki Çayı,26.5,Efor Bitki Çayı Adaçayı,,,1
+Adaçayı,26.5,Efor Bitki Çayı Adaçayı,,,1
+Türk Kahvesi,35.99,Faladdin Türk Kahvesi Klasik,,,1
+Filtre Kahve,76.8,Jacobs Monarch Filtre Kahve,,,1
+Espresso,119.95,Julius Meinl Espresso Kapsülü Crema Yoğunluk 8,,,1
+Portakal Suyu,76.5,Exotic Portakal Suyu,,,1
+Gazlı İçecek,58.8,Kızılay Plus Açai & Çilek Aromalı Doğal Mineralli Gazlı İçecek,,,1
+Kola,31.99,Pepsi Kola Kutu,,,1
+Gazoz,19.96,Fruko Gazoz Pet,,,1
+Maden Suyu,14.4,Damla Minera Doğal Maden Suyu,,,1
+Şeker,10.5,Dr. Oetker Şekerli Vanilin,,,1
+Toz Şeker,49.99,Irmak Toz Şeker,,,1
+Pudra Şekeri,17.5,Dr. Oetker Pudra Şekeri,,,1
+Tuz,24.5,Billur Rafine İyotlu Sofra Tuzu,,,1
+Sofra Tuzu,24.5,Billur Rafine İyotlu Sofra Tuzu,,,1
+Deniz Tuzu,57.7,Billur Sofrada Öğütme Deniz Tuzu Doypack,,,1
+Himalaya Tuzu,161.95,Efsina İyotlu Silindir İnce Himalaya Tuzu,,,1
+Baharat,44.5,Knorr Fırında Tavuk Çeşnisi Baharatlı ve Sarımsaklı,,,1
+Karabiber,53.1,Green Life Öğütülmüş Karabiber,,,1
+Pul Biber,47.2,Green Life Kırmızı Pul Biber,,,1
+Kekik,20.5,Knorr Kekik,,,1
+Kimyon,6.99,Arifoğlu Öğütülmüş Kimyon,,,1
+Köri,27.99,Arifoğlu Köri,,,1
+Zerdeçal,36.5,Knorr Zerdeçal,,,1
+Tarçın,38.99,Knorr Tarçın,,,1
+Salça,44.3,Tamek Domates Salçası,,,1
+Domates Salçası,44.3,Tamek Domates Salçası,,,1
+Biber Salçası,64.5,Tat Tatlı Biber Salçası,,,1
+Ayçiçek Yağı,43.9,Orkide Ayçiçek Yağı,,,1
+Sirke,21.9,Knorr Sirkeli ve Sarımsaklı Salata Sosu,,,1
+Üzüm Sirkesi,32.9,Yeni Kavaklıdere Üzüm Sirkesi,,,1
+Elma Sirkesi,65.5,Kemal Kükrer Elma Sirkesi,,,1
+Sos,21.9,Knorr Fesleğenli & Kekikli Salata Sosu,,,1
+Ketçap,21.99,Tat Acı Ketçap,,,1
+Mayonez,49.99,Burcu Sarımsaklı Mayonez ,,,1
+Hardal,21.9,Knorr Dereotlu ve Hardallı Salata Sosu,,,1
+Konserve,27.7,Tat Haşlanmış Meksika Fasulyesi Konservesi,,,1
